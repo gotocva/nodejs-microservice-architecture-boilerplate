@@ -17,5 +17,6 @@ npm start
 
 ### services 
 
-* category service
 * products service
+* inventory service
+* order service
