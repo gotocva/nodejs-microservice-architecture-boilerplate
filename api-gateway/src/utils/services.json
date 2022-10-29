@@ -1,0 +1,16 @@
+[
+    {
+        "id": "SERVICE_GPS_TAXI",
+        "name": "GPS_TAXI",
+        "type": "SERVICE",
+        "description": "GPS_TAXI services",
+        "url": "http://services.odata.org/V4/Northwind/N"
+    },
+    {
+        "id": "SERVICE_GPS_FOOD",
+        "name": "GPS_FOOD",
+        "type": "SERVICE",
+        "description": "GPS_FOOD services",
+        "url": "http://services.odata.org/V4/Northwind/N"
+    }
+]
